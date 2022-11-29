@@ -1,0 +1,560 @@
+
+[INFO ] 2022-11-25 10:29:52.446 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:29:52.501 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:29:53.657 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:29:53.844 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:29:53.845 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:29:55.930 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:29:55.970 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:29:56.838 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:29:57.017 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:29:57.018 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:29:58.435 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:29:58.473 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:29:59.212 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:29:59.389 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:29:59.390 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:30:00.757 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:30:00.806 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:30:01.616 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:30:01.791 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:30:01.791 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:30:04.631 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:30:04.670 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:30:07.619 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:30:07.883 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:30:07.883 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:30:30.198 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 10:30:31.290 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 10:30:31.336 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 10:30:31.373 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 10:30:31.507 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 10:30:31.557 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 10:30:31.597 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 10:30:31.637 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 10:30:31.683 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 10:30:31.725 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 10:30:31.769 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 10:30:31.813 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 10:30:31.844 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 10:32:07.654 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:32:07.707 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:32:11.572 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:32:11.838 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:32:11.838 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:32:19.233 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:32:19.276 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:32:23.169 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:32:23.461 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:32:23.462 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:32:29.928 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:32:29.967 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:32:32.072 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:32:32.259 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:32:32.260 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:32:34.577 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:32:34.620 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:32:35.453 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:32:35.629 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:32:35.629 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:32:36.814 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:32:36.850 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:32:37.447 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:32:37.616 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:32:37.617 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:32:56.838 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 10:32:58.682 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 10:34:36.571 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:34:36.636 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:34:37.246 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:34:37.475 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:34:37.476 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:34:38.535 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:34:38.571 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:34:39.051 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:34:39.219 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:34:39.219 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:34:40.147 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:34:40.182 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:34:40.701 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:34:40.868 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:34:40.869 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:34:41.745 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:34:41.785 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:34:42.418 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:34:42.642 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:34:42.642 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:34:43.632 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:34:43.675 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:34:45.811 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:34:45.995 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:34:45.995 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:34:48.666 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 10:34:49.768 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 10:34:49.820 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 10:34:49.864 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 10:34:49.994 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 10:34:50.054 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 10:34:50.101 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 10:34:50.142 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 10:34:50.192 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 10:34:50.232 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 10:34:50.280 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 10:34:50.319 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 10:34:50.349 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 10:35:30.018 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:35:30.070 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:35:30.598 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:35:30.801 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:35:30.802 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:35:31.800 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:35:31.836 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:35:32.438 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:35:32.667 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:35:32.667 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:35:33.744 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:35:33.780 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:35:34.296 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:35:34.510 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:35:34.510 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:35:35.385 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:35:35.422 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:35:35.918 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:35:36.100 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:35:36.100 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:35:37.170 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 10:35:37.208 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 10:35:37.881 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 10:35:38.053 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 10:35:38.054 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 10:35:56.897 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 10:35:58.229 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 10:35:58.278 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 10:35:58.318 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 10:35:58.412 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 10:35:58.472 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 10:35:58.531 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 10:35:58.579 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 10:35:58.652 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 10:35:58.695 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 10:35:58.747 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 10:35:58.798 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 10:35:58.842 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 11:47:41.145 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:47:41.214 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:47:41.772 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:47:41.978 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:47:41.978 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:47:43.051 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:47:43.093 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:47:43.632 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:47:43.875 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:47:43.875 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:47:44.837 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:47:44.877 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:47:45.382 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:47:45.576 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:47:45.576 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:47:46.534 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:47:46.582 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:47:47.074 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:47:47.271 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:47:47.272 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:47:48.165 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:47:48.235 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:47:48.781 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:47:48.959 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:47:48.959 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:48:07.904 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 11:48:09.021 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 11:48:09.075 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 11:48:09.131 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 11:48:09.225 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 11:48:09.277 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 11:48:09.315 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 11:48:09.358 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 11:48:09.403 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 11:48:09.442 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 11:48:09.491 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 11:48:09.530 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 11:48:09.565 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 11:51:26.357 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:51:26.424 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:51:27.002 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:51:27.197 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:51:27.197 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:51:28.188 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:51:28.236 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:51:28.755 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:51:28.947 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:51:28.947 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:51:29.885 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:51:29.926 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:51:30.422 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:51:30.630 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:51:30.630 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:51:31.576 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:51:31.622 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:51:32.125 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:51:32.302 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:51:32.303 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:51:33.291 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:51:33.337 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:51:33.831 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:51:34.039 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:51:34.039 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:51:52.987 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 11:51:54.121 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 11:51:54.195 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 11:51:54.231 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 11:51:54.324 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 11:51:54.378 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 11:51:54.421 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 11:51:54.513 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 11:51:54.581 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 11:51:54.649 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 11:51:54.717 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 11:51:54.786 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 11:51:54.833 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 11:55:13.376 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:55:13.427 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:55:14.001 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:55:14.206 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:55:14.207 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:55:15.120 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:55:15.165 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:55:15.680 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:55:15.853 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:55:15.854 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:55:16.767 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:55:16.808 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:55:17.285 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:55:17.456 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:55:17.457 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:55:18.423 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:55:18.467 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:55:18.951 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:55:19.121 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:55:19.122 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:55:20.052 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 11:55:20.129 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 11:55:20.672 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 11:55:20.888 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 11:55:20.888 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 11:55:39.859 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 11:55:40.941 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 11:55:41.018 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 11:55:41.059 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 11:55:41.158 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 11:55:41.214 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 11:55:41.255 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 11:55:41.296 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 11:55:41.342 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 11:55:41.382 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 11:55:41.429 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 11:55:41.471 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 11:55:41.504 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 13:07:32.228 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 13:07:32.282 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 13:07:32.833 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 13:07:33.031 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 13:07:33.032 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 13:07:33.963 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 13:07:34.004 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 13:07:34.665 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 13:07:34.855 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 13:07:34.856 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 13:07:35.850 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 13:07:35.890 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 13:07:36.386 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 13:07:36.569 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 13:07:36.569 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 13:07:37.482 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 13:07:37.519 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 13:07:38.118 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 13:07:38.322 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 13:07:38.322 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 13:07:39.266 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 13:07:39.305 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 13:07:39.796 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 13:07:39.997 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 13:07:39.997 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 13:07:59.112 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 13:08:00.261 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 13:08:00.326 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 13:08:00.378 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 13:08:00.468 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 13:08:00.517 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 13:08:00.556 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 13:08:00.596 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 13:08:00.640 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 13:08:00.681 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 13:08:00.727 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 13:08:00.767 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 13:08:00.799 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 18:37:55.960 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:37:56.029 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:37:56.563 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:37:56.768 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:37:56.769 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:37:57.755 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:37:57.800 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:37:58.335 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:37:58.537 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:37:58.537 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:37:59.437 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:37:59.476 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:37:59.952 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:38:00.135 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:38:00.135 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:38:01.133 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:38:01.172 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:38:01.662 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:38:01.851 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:38:01.851 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:38:02.773 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:38:02.816 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:38:03.309 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:38:03.509 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:38:03.509 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:38:22.799 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 18:38:24.015 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 18:38:24.086 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 18:38:24.133 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 18:38:24.225 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 18:38:24.277 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 18:38:24.314 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 18:38:24.358 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 18:38:24.406 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 18:38:24.444 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 18:38:24.494 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 18:38:24.533 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 18:38:24.567 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-25 18:44:19.197 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:44:19.283 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:44:19.792 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:44:19.977 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:44:19.977 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:44:20.964 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:44:21.016 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:44:21.512 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:44:21.731 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:44:21.731 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:44:22.656 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:44:22.727 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:44:23.239 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:44:23.428 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:44:23.430 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:44:24.349 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:44:24.394 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:44:24.878 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:44:25.091 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:44:25.091 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:44:26.038 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-25 18:44:26.084 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-25 18:44:26.571 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-25 18:44:26.747 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-25 18:44:26.748 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-25 18:44:45.684 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-25 18:44:46.778 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-25 18:44:46.859 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-25 18:44:46.899 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-25 18:44:46.993 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-25 18:44:47.046 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-25 18:44:47.087 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-25 18:44:47.125 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-25 18:44:47.170 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-25 18:44:47.212 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-25 18:44:47.260 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-25 18:44:47.300 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-25 18:44:47.332 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-28 12:14:48.431 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 12:14:48.501 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 12:14:49.075 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 12:14:49.291 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 12:14:49.291 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 12:14:50.274 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 12:14:50.322 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 12:14:50.860 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 12:14:51.044 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 12:14:51.044 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 12:14:51.984 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 12:14:52.023 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 12:14:52.530 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 12:14:52.755 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 12:14:52.755 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 12:14:53.723 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 12:14:53.771 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 12:14:54.272 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 12:14:54.446 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 12:14:54.446 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 12:14:55.394 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 12:14:55.440 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 12:14:55.955 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 12:14:56.119 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 12:14:56.119 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 12:15:15.045 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-28 12:15:16.176 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-28 12:15:16.235 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-28 12:15:16.278 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-28 12:15:16.384 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-28 12:15:16.437 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-28 12:15:16.475 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-28 12:15:16.517 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-28 12:15:16.563 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-28 12:15:16.604 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-28 12:15:16.651 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-28 12:15:16.690 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-28 12:15:16.723 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-28 14:34:39.811 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 14:34:39.884 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 14:34:40.447 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 14:34:40.664 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 14:34:40.664 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 14:34:41.608 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 14:34:41.659 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 14:34:42.204 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 14:34:42.384 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 14:34:42.384 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 14:34:43.290 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 14:34:43.334 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 14:34:43.894 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 14:34:44.081 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 14:34:44.082 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 14:34:45.069 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 14:34:45.118 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 14:34:45.609 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 14:34:45.833 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 14:34:45.833 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 14:34:46.753 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 14:34:46.794 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 14:34:47.290 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 14:34:47.475 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 14:34:47.475 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 14:35:06.340 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-28 14:35:07.490 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-28 14:35:07.570 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-28 14:35:07.611 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-28 14:35:07.703 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-28 14:35:07.753 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-28 14:35:07.794 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-28 14:35:07.834 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-28 14:35:07.878 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-28 14:35:07.919 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-28 14:35:07.965 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-28 14:35:08.006 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-28 14:35:08.040 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-28 18:21:55.748 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 18:21:55.836 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 18:21:56.376 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 18:21:56.594 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 18:21:56.595 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 18:21:57.594 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 18:21:57.646 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 18:21:58.168 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 18:21:58.351 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 18:21:58.351 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 18:21:59.408 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 18:21:59.448 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 18:21:59.951 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 18:22:00.191 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 18:22:00.191 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 18:22:01.200 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 18:22:01.246 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 18:22:01.740 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 18:22:01.960 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 18:22:01.960 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 18:22:02.961 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 18:22:03.014 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 18:22:03.540 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 18:22:03.728 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 18:22:03.728 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 18:22:22.712 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-28 18:22:23.902 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-28 18:22:23.981 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-28 18:22:24.027 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-28 18:22:24.116 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-28 18:22:24.171 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-28 18:22:24.211 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-28 18:22:24.252 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-28 18:22:24.369 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-28 18:22:24.435 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-28 18:22:24.525 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-28 18:22:24.574 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-28 18:22:24.638 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-28 19:04:32.755 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 19:04:32.839 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 19:04:33.389 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 19:04:33.582 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 19:04:33.582 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 19:04:35.795 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 19:04:35.841 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 19:04:36.373 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 19:04:36.561 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 19:04:36.561 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 19:04:37.531 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 19:04:37.580 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 19:04:38.140 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 19:04:38.374 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 19:04:38.375 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 19:04:39.342 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 19:04:39.397 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 19:04:40.031 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 19:04:40.226 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 19:04:40.226 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 19:04:41.142 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-28 19:04:41.190 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-28 19:04:41.744 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-28 19:04:41.954 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-28 19:04:41.954 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-28 19:05:00.910 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-28 19:05:02.140 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-28 19:05:02.202 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-28 19:05:02.244 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-28 19:05:02.349 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-28 19:05:02.403 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-28 19:05:02.443 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-28 19:05:02.487 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-28 19:05:02.533 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-28 19:05:02.579 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-28 19:05:02.628 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-28 19:05:02.665 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-28 19:05:02.699 [main] TC_Loging_001 - reset user
+[INFO ] 2022-11-29 10:11:08.411 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-29 10:11:08.469 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-29 10:11:09.021 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-29 10:11:09.258 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-29 10:11:09.258 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-29 10:11:10.304 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-29 10:11:10.347 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-29 10:11:10.847 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-29 10:11:11.398 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-29 10:11:11.399 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-29 10:11:12.674 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-29 10:11:12.721 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-29 10:11:13.247 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-29 10:11:13.461 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-29 10:11:13.461 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-29 10:11:14.516 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-29 10:11:14.566 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-29 10:11:15.109 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-29 10:11:15.334 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-29 10:11:15.334 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-29 10:11:16.418 [main] TC_Loging_001 - send username
+[INFO ] 2022-11-29 10:11:16.469 [main] TC_Loging_001 - send password
+[INFO ] 2022-11-29 10:11:17.007 [main] TC_Loging_001 - click loging button
+[INFO ] 2022-11-29 10:11:17.224 [main] TC_Loging_001 - successfully logout
+[FATAL] 2022-11-29 10:11:17.224 [main] TC_Loging_001 - nogood
+[INFO ] 2022-11-29 10:11:36.318 [main] TC_Loging_001 - url is open
+[INFO ] 2022-11-29 10:11:37.536 [main] TC_Loging_001 - set username
+[INFO ] 2022-11-29 10:11:37.618 [main] TC_Loging_001 - put customer name
+[INFO ] 2022-11-29 10:11:37.673 [main] TC_Loging_001 - select gender
+[INFO ] 2022-11-29 10:11:37.778 [main] TC_Loging_001 - put date of birth
+[INFO ] 2022-11-29 10:11:37.833 [main] TC_Loging_001 - write on text box
+[INFO ] 2022-11-29 10:11:37.883 [main] TC_Loging_001 - select city
+[INFO ] 2022-11-29 10:11:37.930 [main] TC_Loging_001 - select state
+[INFO ] 2022-11-29 10:11:37.983 [main] TC_Loging_001 - set pin
+[INFO ] 2022-11-29 10:11:38.102 [main] TC_Loging_001 - set phonenumber
+[INFO ] 2022-11-29 10:11:38.182 [main] TC_Loging_001 - set email
+[INFO ] 2022-11-29 10:11:38.240 [main] TC_Loging_001 - set password
+[INFO ] 2022-11-29 10:11:38.294 [main] TC_Loging_001 - reset user
